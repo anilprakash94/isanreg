@@ -1,0 +1,2 @@
+model_checkpoint_path: "weights.18-0.11"
+all_model_checkpoint_paths: "weights.18-0.11"
