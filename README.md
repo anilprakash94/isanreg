@@ -7,7 +7,7 @@
 * OS = Ubuntu 20.04.4 
 
 ### Python Libraries
-* tensorflow (2.7.0)
+* tensorflow (2.7.0) (Tensorflow dependencies recommended for the specific version is required for GPU support)
 
 * numpy (1.23.1)
 
