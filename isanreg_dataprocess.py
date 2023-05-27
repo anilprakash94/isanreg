@@ -86,7 +86,8 @@ def exclude_regions(pos_bins, bed_dict):
                     break
                 else:
                     pass
-            input_list.append(x) 
+            else:
+                input_list.append(x) 
         else:
             input_list.append(x)  
     return input_list
