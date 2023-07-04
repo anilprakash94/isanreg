@@ -1,6 +1,8 @@
 # ISANREG
 **ISANREG** is an **I**nterpretable **S**elf-**A**ttention **N**etwork that uses block-attention and attention-attribution to learn **REG**ulatory features.
 
+Please cite the article "**An interpretable block-attention network for identifying regulatory feature interactions**, Briefings in Bioinformatics, 2023;, bbad250, https://doi.org/10.1093/bib/bbad250"
+
 ## Deependencies
 
 * Python version = 3.8.8
