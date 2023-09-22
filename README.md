@@ -3,7 +3,7 @@
 
 Please cite the article "**An interpretable block-attention network for identifying regulatory feature interactions**, Briefings in Bioinformatics, 2023;, bbad250, https://doi.org/10.1093/bib/bbad250"
 
-## Deependencies
+## Dependencies
 
 * Python version = 3.8.8
 * OS = Ubuntu 20.04.4 
